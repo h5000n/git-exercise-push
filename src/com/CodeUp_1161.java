@@ -20,7 +20,7 @@ public class CodeUp_1161 {
         if((num_1+num_2) % 2 ==0){
             System.out.print("짝수");
         }else{
-            System.out.print("짝수");
+            System.out.print("홀수");
         }
 
     }
